@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/TheUnnamedOne-design/Exercise_14_webp",
+  "homepage": "https://TheUnnamedOne-design.github.io/Exercise14_Webp",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
